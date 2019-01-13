@@ -1,0 +1,5 @@
+#!/bin/bash
+
+echo "Program started"
+sleep 10
+echo "Program finished"

@@ -1,0 +1,3 @@
+spawn ssh root@localhost -p 32769 '../app/sleepingCode && ../app/interactiveProgram'
+expect "Enter something"
+send "test"
